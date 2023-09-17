@@ -1,0 +1,1 @@
+import{_ as e,M as s,V as t,a0 as a}from"./index.40ee3341.js";const o={},n=a("h2",null,"XSIland",-1),c=[n];function r(_,d,l,p,i,f){return s(),t("div",null,c)}var h=e(o,[["render",r]]);export{h as default};
